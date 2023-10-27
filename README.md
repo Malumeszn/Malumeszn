@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Chinedu Victor CHukwumalume
+- 👋 Hi, I’m @Chinedu Victor Chukwumalume
 - 👀 I am really interested in Data Analytics
 - 🌱 I am currently learning Data Analysis
-- 💞️ I ook forward to collaborating on prjects that enable me use data analysis to make data driven decision making.
+- 💞️ I look forward to collaborating on prjects that enable me use data analysis to make data driven decision making.
 - 📫 You can always reach me on bit.ly/cvcmalume
 
 <!---
